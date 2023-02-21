@@ -1090,7 +1090,6 @@ spec:
                     type: array
                 required:
                 - engine
-                - masterUserPasswordSecretRef
                 - region
                 type: object
               providerConfigRef:
